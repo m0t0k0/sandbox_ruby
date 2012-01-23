@@ -18,7 +18,8 @@ end
 
 gem 'jquery-rails'
 gem 'rake', '0.8.7'
-gem 'mysql2', '0.2.6'
+gem 'mysql2', '0.3.7'
+gem 'mysql'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
